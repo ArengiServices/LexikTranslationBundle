@@ -4,3 +4,5 @@ Propel/map
 Propel/om
 
 Tests/app/tmp/
+.idea
+.phpunit.result.cache
